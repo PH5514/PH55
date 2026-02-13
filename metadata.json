@@ -1,0 +1,14 @@
+{
+  "name": "Click & Earn | Método de Lucro Digital 2024",
+  "short_name": "Click&Earn",
+  "description": "Plataforma líder em treinamento para afiliados e funis de vendas de alta conversão. Comece a lucrar hoje.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#ffffff",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
